@@ -1,0 +1,9 @@
+0 * * * * cd /home/tiaki/Download_pic && /bin/bash ./download.sh >> ./download.log 2>&1
+
+0 0 * * * cd /home/tiaki/Download_pic && /bin/bash ./archive.sh >> ./archive.log 2>&1
+
+
+
+
+
+
