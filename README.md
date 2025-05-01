@@ -229,4 +229,4 @@ DIR deleted --> image_18h
 ##
 
 
-  ## [:top: Путь наверх :top:](https://github.com/Tiaki026/Pic_to_lnx#)
+  ## [:top: Путь наверх :top:](https://github.com/Tiaki026/Pic_to_lnx#pic_to_lnx)
