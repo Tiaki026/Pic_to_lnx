@@ -1,4 +1,5 @@
 # Pic_to_lnx
+
 # Оглавление
 - [:page_with_curl: Описание](https://github.com/Tiaki026/Pic_to_lnx#описание)
 - [:shipit: Как пользоваться проектом](https://github.com/Tiaki026/Pic_to_lnx#как-пользоваться-проектом)
@@ -6,9 +7,11 @@
 - [:question: Вопрос-ответ](https://github.com/Tiaki026/Pic_to_lnx#вопрос-ответ)
 - [:zap: Автор](https://github.com/Tiaki026/Pic_to_lnx#автор)
 
+
 ## :page_with_curl: Описание
 
 ### Скачивает картинки с помощью терминала linux с автоматизацией каждый час и архивированием раз в сутки
+
 
 ## :shipit: Как пользоваться проектом
 ### Клонируем репозиторий
@@ -80,9 +83,12 @@ DIR deleted --> image_16h
 DIR deleted --> image_17h
 DIR deleted --> image_18h
 ```
+
 ## [:books: Пример архива](https://github.com/Tiaki026/Pic_to_lnx/blob/main/for_gh_images_daily_2025-05-01.tar.gz)
 
+
 ## :question: Вопрос-ответ
+
 ### + Вопрос.1
   Изучите и расскажите, как работает команда chmod:
   Что означают числа в команде chmod, например, почему права могут быть выставлены как 755, 700, или 644?
