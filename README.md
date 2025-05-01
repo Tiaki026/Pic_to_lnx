@@ -4,8 +4,8 @@
 - [:page_with_curl: Описание](https://github.com/Tiaki026/Pic_to_lnx#описание)
 - [:shipit: Как пользоваться проектом](https://github.com/Tiaki026/Pic_to_lnx#как-пользоваться-проектом)
 - [:books: Пример архива](https://github.com/Tiaki026/Pic_to_lnx#пример-архива)
-- [:question: Вопрос-ответ](https://github.com/Tiaki026/Pic_to_lnx#вопрос-ответ)
-- [:zap: Автор](https://github.com/Tiaki026/Pic_to_lnx#автор)
+- [:question: Вопрос-ответ](https://github.com/Tiaki026/Pic_to_lnx#question-вопрос-ответ)
+- [:zap: Автор](https://github.com/Tiaki026/Pic_to_lnx#zap-автор)
 
 
 ## :page_with_curl: Описание
